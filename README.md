@@ -1,6 +1,6 @@
 # xenar :smiling_imp:
 
-A chrome extension that prevents websites from running cryptominers in your browser. [ WIP ]
+A chrome extension that prevents websites from running cryptominers in your browser. [ WIP ]!!!
 
 # Installation :sparkles:
  ### How to install this extension in your browser.
